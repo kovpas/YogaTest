@@ -3,7 +3,7 @@
 //  YogaTest
 //
 //  Created by Pavel Mazurin on 20/07/2017.
-//  Copyright © 2017 Uber. All rights reserved.
+//  Copyright © 2017 kovpas. All rights reserved.
 //
 
 import UIKit

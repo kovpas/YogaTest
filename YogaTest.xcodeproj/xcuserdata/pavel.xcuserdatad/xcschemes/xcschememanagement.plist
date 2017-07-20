@@ -4,10 +4,38 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>YogaKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>YogaTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>yoga.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E97792C71F20A9130001221A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E97792FB1F20AEA70001221A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E977930D1F20AEB70001221A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
